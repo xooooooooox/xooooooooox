@@ -1,18 +1,7 @@
 ## Hi there 👋, I'm x9x
 
 <!--
-**xooooooooox/xooooooooox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+see <https://github.com/qwerty541/qwerty541/blob/master/README.md>
 -->
 
 [![Github](https://img.shields.io/github/followers/xooooooooox?label=Follow&style=social)](https://github.com/xooooooooox)
@@ -84,22 +73,3 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-<!-- WakaTime stats (Light mode) -->
-<div align="center">
-  <a href="https://github.com/xooooooooox#gh-light-mode-only">
-    <img
-        src="https://github-readme-stats-steel-omega.vercel.app/api/wakatime?username=xooooooooox&layout=compact&hide_border=true&custom_title=WakaTime%20Stats%20%28Since%20Feb%2024%202024%29"
-        alt="My Wakatime stats"
-      />
-  </a>
-</div>
-
-<!-- WakaTime stats (Dark mode) -->
-<div align="center">
-  <a href="https://github.com/xooooooooox#gh-dark-mode-only">
-    <img
-        src="https://github-readme-stats-steel-omega.vercel.app/api/wakatime?username=xooooooooox&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&custom_title=WakaTime%20Stats%20%28Since%20Feb%2024%202024%29"
-        alt="My Wakatime stats"
-      />
-  </a>
-</div>
