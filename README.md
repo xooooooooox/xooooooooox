@@ -3,7 +3,7 @@ see <https://github.com/qwerty541/qwerty541/blob/master/README.md>
 see <https://github.com/guilyx/guilyx/blob/master/README.md>
 -->
 
-[![Actions Status](https://github.com/xooooooooox/xooooooooox/workflows/wakatime-readme/badge.svg)](https://github.com/xooooooooox/xooooooooox/actions)
+[![Actions Status](https://github.com/xooooooooox/xooooooooox/workflows/waka-readme/badge.svg)](https://github.com/xooooooooox/xooooooooox/actions)
 [![Actions Status](https://github.com/xooooooooox/xooooooooox/workflows/update-gh-activity/badge.svg)](https://github.com/xooooooooox/xooooooooox/actions)
 
 <p align="center">

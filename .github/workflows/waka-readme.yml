@@ -24,6 +24,6 @@ jobs:
           TIME_RANGE: all_time
           SHOW_MASKED_TIME: true
           # commit
-          COMMIT_MESSAGE: "Updated simple waka stats section"
+          COMMIT_MESSAGE: "Updated waka section"
           COMMITTER_NAME: github-actions[bot] # optional
           COMMITTER_EMAIL: action-bot@github.com # optional
