@@ -1,12 +1,40 @@
-## Hi there 👋, I'm x9x
-
 <!--
 see <https://github.com/qwerty541/qwerty541/blob/master/README.md>
+see <https://github.com/guilyx/guilyx/blob/master/README.md>
 -->
 
+[![Actions Status](https://github.com/xooooooooox/xooooooooox/workflows/wakatime-readme/badge.svg)](https://github.com/xooooooooox/xooooooooox/actions)
+[![Actions Status](https://github.com/xooooooooox/xooooooooox/workflows/update-gh-activity/badge.svg)](https://github.com/xooooooooox/xooooooooox/actions)
+
+<p align="center">
+  <img
+    src="https://socialify.git.ci/xooooooooox/xooooooooox/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&name=1&owner=1&pulls=1&stargazers=1&theme=Auto"
+    alt="waka-readme"
+    width="640"
+    height="320"
+  />
+</p>
+
+
+<!-- activity graph -->
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xooooooooox&theme=github-dark-dimmed&custom_title=xooooooooox%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- followers -->
 [![Github](https://img.shields.io/github/followers/xooooooooox?label=Follow&style=social)](https://github.com/xooooooooox)
 
-- I'm a software engineer. I'd like to make some contributions for open source and share some thoughts on my blog and github.
+<!-- todo introduction
+```yaml
+```
+-->
+**:zap: Recent Activity:**
+
+<!--START_SECTION:activity-->
+1. 🚀 Published release [v0.1.3](https://github.com/xooooooooox/radp/releases/tag/v0.1.3) in [xooooooooox/radp](https://github.com/xooooooooox/radp)
+<!--END_SECTION:activity-->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 <!-- GRS (Light Mode) -->
 <a href="https://github.com/xooooooooox#gh-light-mode-only">
@@ -51,25 +79,3 @@ see <https://github.com/qwerty541/qwerty541/blob/master/README.md>
     </tr>
   </table>
 </a>
-
-<!-- Streak stats (Light mode) -->
-<div align="center">
-  <a href="https://github.com/xooooooooox#gh-light-mode-only">
-    <img
-       src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=xooooooooox&locale=en&type=svg&hide_border=true&fire=2d77dc&ring=2d77dc&currStreakLabel=000000"
-       alt="My GitHub streak stats"
-     />
-  </a>
-</div>
-
-
-<!-- Streak stats (Dark mode) -->
-<div align="center">
-  <a href="https://github.com/xooooooooox#gh-dark-mode-only">
-    <img
-       src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=xooooooooox&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=en&type=svg&hide_border=true"
-       alt="My GitHub streak stats"
-     />
-  </a>
-</div>
-
