@@ -33,6 +33,15 @@ see <https://github.com/guilyx/guilyx/blob/master/README.md>
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 11 August 2024 - To: 21 December 2024
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 
