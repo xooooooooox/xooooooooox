@@ -29,7 +29,7 @@ see <https://github.com/guilyx/guilyx/blob/master/README.md>
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.2](https://github.com/xooooooooox/radp/releases/tag/v0.2) in [xooooooooox/radp](https://github.com/xooooooooox/radp)
+1. 🚀 Published release [v0.3](https://github.com/xooooooooox/radp/releases/tag/v0.3) in [xooooooooox/radp](https://github.com/xooooooooox/radp)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
