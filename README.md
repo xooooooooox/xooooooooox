@@ -29,7 +29,7 @@ see <https://github.com/guilyx/guilyx/blob/master/README.md>
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1](https://github.com/xooooooooox/writerside-action/releases/tag/v1) in [xooooooooox/writerside-action](https://github.com/xooooooooox/writerside-action)
+1. 🗣 Commented on [#342](https://github.com/version-fox/vfox/issues/342#issuecomment-2571358003) in [version-fox/vfox](https://github.com/version-fox/vfox)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
