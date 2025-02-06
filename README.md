@@ -29,7 +29,7 @@ see <https://github.com/guilyx/guilyx/blob/master/README.md>
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.9](https://github.com/xooooooooox/radp/releases/tag/0.9) in [xooooooooox/radp](https://github.com/xooooooooox/radp)
+1. 🗣 Commented on [#1](https://github.com/xooooooooox/zsh-proxy/issues/1#issuecomment-2635807129) in [xooooooooox/zsh-proxy](https://github.com/xooooooooox/zsh-proxy)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
