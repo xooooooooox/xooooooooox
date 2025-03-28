@@ -31,7 +31,7 @@ see <https://github.com/guilyx/guilyx/blob/master/README.md>
 
 <!--START_SECTION:waka-->
 
-```txt
+```JAVA PYTHON
 From: 11 August 2024 - To: 28 March 2025
 
 Total Time: 7 mins
