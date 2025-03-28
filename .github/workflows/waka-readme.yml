@@ -17,8 +17,6 @@ jobs:
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }} # optional if on profile readme
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
-          # meta
-          REPOSITORY: xooooooooox/radp,xooooooooox/scaffold-std-demo,xooooooooox/radp-desensitization
           # content
           SHOW_TITLE: true
           SECTION_NAME: "waka"
