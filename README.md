@@ -28,10 +28,6 @@ see <https://github.com/guilyx/guilyx/blob/master/README.md>
 <!-- activity graph -->
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xooooooooox&theme=github-dark-dimmed&custom_title=xooooooooox%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-
 <!-- GRS (Light Mode) -->
 <a href="https://github.com/xooooooooox#gh-light-mode-only">
   <table cellspacing="0" cellpadding="0">
@@ -76,4 +72,14 @@ see <https://github.com/guilyx/guilyx/blob/master/README.md>
   </table>
 </a>
 
+---
+
 [![Actions Status](https://github.com/xooooooooox/xooooooooox/workflows/update-gh-activity/badge.svg)](https://github.com/xooooooooox/xooooooooox/actions)
+
+<!--
+<a href="https://github.com/jstrieb/github-stats">
+
+![](https://raw.githubusercontent.com/xooooooooox/github-stats/master/generated/overview.svg#gh-dark-mode-only)![](https://raw.githubusercontent.com/xooooooooox/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+</a>
+-->
