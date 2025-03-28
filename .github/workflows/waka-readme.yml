@@ -23,6 +23,8 @@ jobs:
           BLOCKS: "⣀⣄⣤⣦⣶⣷⣿"
           TIME_RANGE: all_time
           SHOW_MASKED_TIME: true
+          LANG_COUNT: 10
+          IGNORED_LANGUAGES: XML JSON TOML YAML
           # commit
           COMMIT_MESSAGE: "Updated waka section"
           COMMITTER_NAME: github-actions[bot] # optional

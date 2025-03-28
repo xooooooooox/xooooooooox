@@ -10,27 +10,24 @@ see <https://github.com/guilyx/guilyx/blob/master/README.md>
   <img
     src="https://socialify.git.ci/xooooooooox/xooooooooox/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&name=1&owner=1&pulls=1&stargazers=1&theme=Auto"
     alt="waka-readme"
-    width="640"
-    height="320"
+    width="1200"
+    height="420"
   />
 </p>
 
-
-<!-- activity graph -->
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xooooooooox&theme=github-dark-dimmed&custom_title=xooooooooox%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<!-- followers -->
-[![Github](https://img.shields.io/github/followers/xooooooooox?label=Follow&style=social)](https://github.com/xooooooooox)
-
-<!-- todo introduction
+<!--
 ```yaml
 ```
 -->
+
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
 1. 🚀 Published release [3.13](https://github.com/xooooooooox/radp/releases/tag/3.13) in [xooooooooox/radp](https://github.com/xooooooooox/radp)
 <!--END_SECTION:activity-->
+
+<!-- activity graph -->
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xooooooooox&theme=github-dark-dimmed&custom_title=xooooooooox%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
 
