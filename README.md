@@ -11,9 +11,6 @@ see <https://github.com/guilyx/guilyx/blob/master/README.md>
 
 ---
 
-[![Actions Status](https://github.com/xooooooooox/xooooooooox/workflows/waka-readme/badge.svg)](https://github.com/xooooooooox/xooooooooox/actions)
-[![Actions Status](https://github.com/xooooooooox/xooooooooox/workflows/update-gh-activity/badge.svg)](https://github.com/xooooooooox/xooooooooox/actions)
-
 <p align="center">
   <img
     src="https://socialify.git.ci/xooooooooox/xooooooooox/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&name=1&owner=1&pulls=1&stargazers=1&theme=Auto"
@@ -78,3 +75,5 @@ see <https://github.com/guilyx/guilyx/blob/master/README.md>
     </tr>
   </table>
 </a>
+
+[![Actions Status](https://github.com/xooooooooox/xooooooooox/workflows/update-gh-activity/badge.svg)](https://github.com/xooooooooox/xooooooooox/actions)
