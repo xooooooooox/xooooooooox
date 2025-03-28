@@ -3,6 +3,14 @@ see <https://github.com/qwerty541/qwerty541/blob/master/README.md>
 see <https://github.com/guilyx/guilyx/blob/master/README.md>
 -->
 
+**:zap: Recent Activity:**
+
+<!--START_SECTION:activity-->
+1. 🚀 Published release [3.13](https://github.com/xooooooooox/radp/releases/tag/3.13) in [xooooooooox/radp](https://github.com/xooooooooox/radp)
+<!--END_SECTION:activity-->
+
+---
+
 [![Actions Status](https://github.com/xooooooooox/xooooooooox/workflows/waka-readme/badge.svg)](https://github.com/xooooooooox/xooooooooox/actions)
 [![Actions Status](https://github.com/xooooooooox/xooooooooox/workflows/update-gh-activity/badge.svg)](https://github.com/xooooooooox/xooooooooox/actions)
 
@@ -19,12 +27,6 @@ see <https://github.com/guilyx/guilyx/blob/master/README.md>
 ```yaml
 ```
 -->
-
-**:zap: Recent Activity:**
-
-<!--START_SECTION:activity-->
-1. 🚀 Published release [3.13](https://github.com/xooooooooox/radp/releases/tag/3.13) in [xooooooooox/radp](https://github.com/xooooooooox/radp)
-<!--END_SECTION:activity-->
 
 <!-- activity graph -->
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xooooooooox&theme=github-dark-dimmed&custom_title=xooooooooox%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
