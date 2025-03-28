@@ -30,16 +30,6 @@ see <https://github.com/guilyx/guilyx/blob/master/README.md>
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xooooooooox&theme=github-dark-dimmed&custom_title=xooooooooox%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-
-```JAVA PYTHON
-From: 11 August 2024 - To: 28 March 2025
-
-Total Time: 7 mins
-
-Markdown   1 min           ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.38 %
-Ruby       0 secs          ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.31 %
-```
-
 <!--END_SECTION:waka-->
 
 
