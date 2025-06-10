@@ -11,6 +11,8 @@ see <https://github.com/guilyx/guilyx/blob/master/README.md>
 
 ---
 
+<!--
+
 <p align="center">
   <img
     src="https://socialify.git.ci/xooooooooox/xooooooooox/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&name=1&owner=1&pulls=1&stargazers=1&theme=Auto"
@@ -19,6 +21,8 @@ see <https://github.com/guilyx/guilyx/blob/master/README.md>
     height="420"
   />
 </p>
+
+-->
 
 <!--
 ```yaml
