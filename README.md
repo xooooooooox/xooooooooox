@@ -6,7 +6,7 @@ see <https://github.com/guilyx/guilyx/blob/master/README.md>
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v3.22](https://github.com/xooooooooox/radp/releases/tag/v3.22) in [xooooooooox/radp](https://github.com/xooooooooox/radp)
+1. 🚀 Published release [v2.23](https://github.com/xooooooooox/radp/releases/tag/v2.23) in [xooooooooox/radp](https://github.com/xooooooooox/radp)
 <!--END_SECTION:activity-->
 
 ---
