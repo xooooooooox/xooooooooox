@@ -6,7 +6,7 @@ see <https://github.com/guilyx/guilyx/blob/master/README.md>
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.26.3](https://github.com/xooooooooox/radp/releases/tag/v2.26.3) in [xooooooooox/radp](https://github.com/xooooooooox/radp)
+1. 🗣 Commented on [#713](https://github.com/jesseduffield/lazydocker/issues/713#issuecomment-3583983466) in [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker)
 <!--END_SECTION:activity-->
 
 ---
