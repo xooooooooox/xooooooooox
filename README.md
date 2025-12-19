@@ -6,7 +6,7 @@ see <https://github.com/guilyx/guilyx/blob/master/README.md>
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#713](https://github.com/jesseduffield/lazydocker/issues/713#issuecomment-3583983466) in [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker)
+1. ❌ Merged PR [#1](undefined) in [x9x-ai/playground](https://github.com/x9x-ai/playground)
 <!--END_SECTION:activity-->
 
 ---
