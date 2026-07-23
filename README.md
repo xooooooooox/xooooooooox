@@ -38,7 +38,14 @@ Passionate Full-Stack Engineer with expertise in building end-to-end solutions. 
 
 <h3 align="left">GitHub Stats and Top Languages:</h3>
 <p align="left">
-<a href="https://github.com/jstrieb/github-stats">
-<img src="https://github.com/xooooooooox/github-stats/blob/master/generated/overview.svg" alt="github-overview.svg" width="400" height="233"/></a><img src="https://github.com/xooooooooox/github-stats/blob/master/generated/languages.svg" alt="github-languages.svg" width="400" height="233"/></a>
-</a>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=xooooooooox&show_icons=true&theme=dark">
+      <img src="https://github-stats-extended.vercel.app/api?username=xooooooooox&show_icons=true" alt="GitHub stats" height="180"/>
+    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=xooooooooox&layout=compact&theme=dark">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=xooooooooox&layout=compact" alt="Top languages" height="180"/>
+    </picture>
+  </a>
 </p>
